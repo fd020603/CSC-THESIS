@@ -43,7 +43,7 @@ class SecurityEngine:
         print(json.dumps(log_entry, indent=2)) # 출력 정리
 
     def get_shadow_response(self, query):
-        """RAG 기반 가짜 데이터 생성"""
+        """RAG 기반 가짜 데이터 생성중입니다."""
         start_time = time.time()
         
         # 더미정보 생성 프롬프트
