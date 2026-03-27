@@ -1,5 +1,8 @@
 # CSC-THESIS
 
+## Introduction
+A Python-based Proof of Concept (PoC) for interacting with local Large Language Models via Ollama, specifically optimized for the Llama-3 model.
+
 사전 요구사항
 Python 3.x
 
